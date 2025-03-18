@@ -1,6 +1,6 @@
 Based on the information available from the GitHub repository [leonardo-ggomes/fruit-ninja](https://github.com/leonardo-ggomes/fruit-ninja), here is a proposed README file for the project:
 
-# Fruit Ninja 🍉
+# Fruit Ninja 🍉🥷
 
 A simple web-based game inspired by the classic Fruit Ninja, developed using HTML, CSS, and JavaScript.
 
